@@ -1,0 +1,11 @@
+[
+  { "name": "Haku", "color": "amber", "id": "68961358a34980885377524a4a8766" },
+  { "name": "Luka", "color": "green", "id": "38136754209825b05a81002178108a" },
+  { "name": "Misaka", "color": "Red", "id": "32b656a52375984776851a0085792a" },
+  {
+    "name": "Miku",
+    "color": "orange",
+    "id": "3a4a55451380135b629aa371802812"
+  },
+  { "name": "Tetya", "color": "blonde", "id": "359790b9843523783826a894abbb68" }
+]
